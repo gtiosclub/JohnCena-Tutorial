@@ -1,5 +1,5 @@
 ## Learn CCAnimations and CCParticleSystems with JohnCena!
-<img src="johncenascreenshot.png" style="width:50%; max-width:320px">
+![image](johncenascreenshotsmall.png)
 
 This tutorial will teach you how to build an introductory screen with JohnCena blasting out of nowhere.
 
